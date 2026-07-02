@@ -1,0 +1,740 @@
+rule_id,severity,table,company_id,year,field,issue
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,2012-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,2013-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,2014-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,2015-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,2016-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,2017-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,2018-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,2019-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,2020-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,2021-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,2022-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,2023-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZOMATO,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZOMATO,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZOMATO,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZOMATO,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZOMATO,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZOMATO,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZOMATO,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZOMATO,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZOMATO,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZOMATO,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZOMATO,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZOMATO,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZOMATO,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ZOMATO,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,2024-09,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,AGTL,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,AGTL,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,AGTL,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,AGTL,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,AGTL,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,AGTL,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,AGTL,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,2012-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,2013-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,2014-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,2015-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,2016-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,2017-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,2018-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,2019-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,2020-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,2021-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,2022-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,2023-12,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ZOMATO,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ZOMATO,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ZOMATO,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ZOMATO,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ZOMATO,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2013-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2014-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2015-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2016-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2017-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2018-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2019-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2020-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2021-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2022-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2023-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,2024-03,company_id,company_id not found in companies table
+DQ-03,CRITICAL,analysis,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,prosandcons,WIPRO,,company_id,company_id not found in companies table
+DQ-03,CRITICAL,prosandcons,WIPRO,,company_id,company_id not found in companies table
+DQ-05,WARNING,profitandloss,ADANIENSOL,2024-03,opm_percentage,opm_percentage 30.0 vs computed 34.39
+DQ-05,WARNING,profitandloss,AXISBANK,2013-03,opm_percentage,opm_percentage 1353.0 vs computed 30.58
+DQ-05,WARNING,profitandloss,AXISBANK,2014-03,opm_percentage,opm_percentage 2307.0 vs computed 31.47
+DQ-05,WARNING,profitandloss,AXISBANK,2015-03,opm_percentage,opm_percentage 3097.0 vs computed 31.36
+DQ-05,WARNING,profitandloss,AXISBANK,2016-03,opm_percentage,opm_percentage 3466.0 vs computed 32.61
+DQ-05,WARNING,profitandloss,AXISBANK,2017-03,opm_percentage,opm_percentage -5715.0 vs computed 53.45
+DQ-05,WARNING,profitandloss,AXISBANK,2018-03,opm_percentage,opm_percentage -10277.0 vs computed 63.12
+DQ-05,WARNING,profitandloss,AXISBANK,2019-03,opm_percentage,opm_percentage -5447.0 vs computed 49.39
+DQ-05,WARNING,profitandloss,AXISBANK,2020-03,opm_percentage,opm_percentage -9859.0 vs computed 55.98
+DQ-05,WARNING,profitandloss,AXISBANK,2021-03,opm_percentage,opm_percentage -2510.0 vs computed 50.12
+DQ-05,WARNING,profitandloss,AXISBANK,2022-03,opm_percentage,opm_percentage 3170.0 vs computed 44.47
+DQ-05,WARNING,profitandloss,AXISBANK,2023-03,opm_percentage,opm_percentage 13857.0 vs computed 34.16
+DQ-05,WARNING,profitandloss,AXISBANK,2024-03,opm_percentage,opm_percentage 11952.0 vs computed 34.69
+DQ-05,WARNING,profitandloss,BAJFINANCE,2015-03,opm_percentage,opm_percentage 1367.0 vs computed 32.49
+DQ-05,WARNING,profitandloss,BAJFINANCE,2016-03,opm_percentage,opm_percentage 1986.0 vs computed 32.25
+DQ-05,WARNING,profitandloss,BAJFINANCE,2017-03,opm_percentage,opm_percentage 2867.0 vs computed 32.60
+DQ-05,WARNING,profitandloss,BAJFINANCE,2018-03,opm_percentage,opm_percentage 3935.0 vs computed 32.28
+DQ-05,WARNING,profitandloss,BAJFINANCE,2019-03,opm_percentage,opm_percentage 6310.0 vs computed 29.50
+DQ-05,WARNING,profitandloss,BAJFINANCE,2020-03,opm_percentage,opm_percentage 7608.0 vs computed 34.73
+DQ-05,WARNING,profitandloss,BAJFINANCE,2021-03,opm_percentage,opm_percentage 6314.0 vs computed 40.64
+DQ-05,WARNING,profitandloss,BAJFINANCE,2022-03,opm_percentage,opm_percentage 9906.0 vs computed 37.55
+DQ-05,WARNING,profitandloss,BAJFINANCE,2023-03,opm_percentage,opm_percentage 16018.0 vs computed 30.65
+DQ-05,WARNING,profitandloss,BAJFINANCE,2024-03,opm_percentage,opm_percentage 19987.0 vs computed 29.29
+DQ-05,WARNING,profitandloss,BANKBARODA,2013-03,opm_percentage,opm_percentage 1006.0 vs computed 30.05
+DQ-05,WARNING,profitandloss,BANKBARODA,2014-03,opm_percentage,opm_percentage 809.0 vs computed 29.78
+DQ-05,WARNING,profitandloss,BANKBARODA,2015-03,opm_percentage,opm_percentage 902.0 vs computed 29.98
+DQ-05,WARNING,profitandloss,BANKBARODA,2016-03,opm_percentage,opm_percentage -11700.0 vs computed 55.44
+DQ-05,WARNING,profitandloss,BANKBARODA,2017-03,opm_percentage,opm_percentage -4372.0 vs computed 43.28
+DQ-05,WARNING,profitandloss,BANKBARODA,2018-03,opm_percentage,opm_percentage -9197.0 vs computed 56.65
+DQ-05,WARNING,profitandloss,BANKBARODA,2019-03,opm_percentage,opm_percentage -5414.0 vs computed 48.79
+DQ-05,WARNING,profitandloss,BANKBARODA,2020-03,opm_percentage,opm_percentage -11728.0 vs computed 51.44
+DQ-05,WARNING,profitandloss,BANKBARODA,2021-03,opm_percentage,opm_percentage -6957.0 vs computed 51.23
+DQ-05,WARNING,profitandloss,BANKBARODA,2022-03,opm_percentage,opm_percentage -2948.0 vs computed 51.12
+DQ-05,WARNING,profitandloss,BANKBARODA,2023-03,opm_percentage,opm_percentage 6329.0 vs computed 40.45
+DQ-05,WARNING,profitandloss,BANKBARODA,2024-03,opm_percentage,opm_percentage 4102.0 vs computed 37.49
+DQ-05,WARNING,profitandloss,CANBK,2013-03,opm_percentage,opm_percentage 655.0 vs computed 21.18
+DQ-05,WARNING,profitandloss,CANBK,2014-03,opm_percentage,opm_percentage -672.0 vs computed 24.35
+DQ-05,WARNING,profitandloss,CANBK,2015-03,opm_percentage,opm_percentage -621.0 vs computed 23.51
+DQ-05,WARNING,profitandloss,CANBK,2016-03,opm_percentage,opm_percentage -8008.0 vs computed 40.38
+DQ-05,WARNING,profitandloss,CANBK,2017-03,opm_percentage,opm_percentage -5775.0 vs computed 37.85
+DQ-05,WARNING,profitandloss,CANBK,2018-03,opm_percentage,opm_percentage -13350.0 vs computed 61.87
+DQ-05,WARNING,profitandloss,CANBK,2019-03,opm_percentage,opm_percentage -11590.0 vs computed 56.73
+DQ-05,WARNING,profitandloss,CANBK,2020-03,opm_percentage,opm_percentage -12867.0 vs computed 53.88
+DQ-05,WARNING,profitandloss,CANBK,2021-03,opm_percentage,opm_percentage -18367.0 vs computed 61.83
+DQ-05,WARNING,profitandloss,CANBK,2022-03,opm_percentage,opm_percentage -13657.0 vs computed 58.39
+DQ-05,WARNING,profitandloss,CANBK,2023-03,opm_percentage,opm_percentage -9877.0 vs computed 49.80
+DQ-05,WARNING,profitandloss,CANBK,2024-03,opm_percentage,opm_percentage -7745.0 vs computed 41.75
+DQ-05,WARNING,profitandloss,CHOLAFIN,2013-03,opm_percentage,opm_percentage 472.0 vs computed 26.77
+DQ-05,WARNING,profitandloss,CHOLAFIN,2014-03,opm_percentage,opm_percentage 578.0 vs computed 28.42
+DQ-05,WARNING,profitandloss,CHOLAFIN,2015-03,opm_percentage,opm_percentage 696.0 vs computed 28.56
+DQ-05,WARNING,profitandloss,CHOLAFIN,2016-03,opm_percentage,opm_percentage 899.0 vs computed 30.04
+DQ-05,WARNING,profitandloss,CHOLAFIN,2017-03,opm_percentage,opm_percentage 1143.0 vs computed 28.16
+DQ-05,WARNING,profitandloss,CHOLAFIN,2018-03,opm_percentage,opm_percentage 1451.0 vs computed 26.10
+DQ-05,WARNING,profitandloss,CHOLAFIN,2019-03,opm_percentage,opm_percentage 1888.0 vs computed 22.96
+DQ-05,WARNING,profitandloss,CHOLAFIN,2020-03,opm_percentage,opm_percentage 1699.0 vs computed 27.79
+DQ-05,WARNING,profitandloss,CHOLAFIN,2021-03,opm_percentage,opm_percentage 2094.0 vs computed 30.40
+DQ-05,WARNING,profitandloss,CHOLAFIN,2022-03,opm_percentage,opm_percentage 2924.0 vs computed 28.83
+DQ-05,WARNING,profitandloss,CHOLAFIN,2023-03,opm_percentage,opm_percentage 3515.0 vs computed 28.10
+DQ-05,WARNING,profitandloss,CHOLAFIN,2024-03,opm_percentage,opm_percentage 4548.0 vs computed 28.10
+DQ-05,WARNING,profitandloss,CIPLA,2013-03,opm_percentage,opm_percentage 2214.0 vs computed 73.26
+DQ-05,WARNING,profitandloss,CIPLA,2014-03,opm_percentage,opm_percentage 2147.0 vs computed 78.90
+DQ-05,WARNING,profitandloss,CIPLA,2015-03,opm_percentage,opm_percentage 2163.0 vs computed 80.94
+DQ-05,WARNING,profitandloss,CIPLA,2016-03,opm_percentage,opm_percentage 2480.0 vs computed 82.02
+DQ-05,WARNING,profitandloss,CIPLA,2017-03,opm_percentage,opm_percentage 2496.0 vs computed 82.66
+DQ-05,WARNING,profitandloss,CIPLA,2018-03,opm_percentage,opm_percentage 2826.0 vs computed 81.35
+DQ-05,WARNING,profitandloss,CIPLA,2019-03,opm_percentage,opm_percentage 3097.0 vs computed 81.07
+DQ-05,WARNING,profitandloss,CIPLA,2020-03,opm_percentage,opm_percentage 3206.0 vs computed 81.29
+DQ-05,WARNING,profitandloss,CIPLA,2021-03,opm_percentage,opm_percentage 4252.0 vs computed 77.80
+DQ-05,WARNING,profitandloss,CIPLA,2022-03,opm_percentage,opm_percentage 4553.0 vs computed 79.08
+DQ-05,WARNING,profitandloss,CIPLA,2023-03,opm_percentage,opm_percentage 5027.0 vs computed 77.91
+DQ-05,WARNING,profitandloss,CIPLA,2024-03,opm_percentage,opm_percentage 6291.0 vs computed 75.59
+DQ-05,WARNING,profitandloss,COALINDIA,2013-03,opm_percentage,opm_percentage 18087.0 vs computed 73.52
+DQ-05,WARNING,profitandloss,COALINDIA,2014-03,opm_percentage,opm_percentage 17766.0 vs computed 74.84
+DQ-05,WARNING,profitandloss,COALINDIA,2015-03,opm_percentage,opm_percentage 17343.0 vs computed 76.60
+DQ-05,WARNING,profitandloss,COALINDIA,2016-03,opm_percentage,opm_percentage 18714.0 vs computed 75.96
+DQ-05,WARNING,profitandloss,COALINDIA,2017-03,opm_percentage,opm_percentage 12448.0 vs computed 84.07
+DQ-05,WARNING,profitandloss,COALINDIA,2018-03,opm_percentage,opm_percentage 9288.0 vs computed 89.10
+DQ-05,WARNING,profitandloss,COALINDIA,2019-03,opm_percentage,opm_percentage 25007.0 vs computed 74.89
+DQ-05,WARNING,profitandloss,COALINDIA,2020-03,opm_percentage,opm_percentage 21581.0 vs computed 77.54
+DQ-05,WARNING,profitandloss,COALINDIA,2021-03,opm_percentage,opm_percentage 18628.0 vs computed 79.31
+DQ-05,WARNING,profitandloss,COALINDIA,2022-03,opm_percentage,opm_percentage 24721.0 vs computed 77.47
+DQ-05,WARNING,profitandloss,COALINDIA,2023-03,opm_percentage,opm_percentage 44232.0 vs computed 68.01
+DQ-05,WARNING,profitandloss,COALINDIA,2024-03,opm_percentage,opm_percentage 47971.0 vs computed 66.29
+DQ-05,WARNING,profitandloss,HDFCBANK,2013-03,opm_percentage,opm_percentage 3534.0 vs computed 35.22
+DQ-05,WARNING,profitandloss,HDFCBANK,2014-03,opm_percentage,opm_percentage 5602.0 vs computed 31.74
+DQ-05,WARNING,profitandloss,HDFCBANK,2015-03,opm_percentage,opm_percentage 7214.0 vs computed 31.90
+DQ-05,WARNING,profitandloss,HDFCBANK,2016-03,opm_percentage,opm_percentage 9037.0 vs computed 31.75
+DQ-05,WARNING,profitandloss,HDFCBANK,2017-03,opm_percentage,opm_percentage 11374.0 vs computed 32.56
+DQ-05,WARNING,profitandloss,HDFCBANK,2018-03,opm_percentage,opm_percentage 13374.0 vs computed 34.63
+DQ-05,WARNING,profitandloss,HDFCBANK,2019-03,opm_percentage,opm_percentage 16592.0 vs computed 33.15
+DQ-05,WARNING,profitandloss,HDFCBANK,2020-03,opm_percentage,opm_percentage 14593.0 vs computed 37.20
+DQ-05,WARNING,profitandloss,HDFCBANK,2021-03,opm_percentage,opm_percentage 16848.0 vs computed 40.81
+DQ-05,WARNING,profitandloss,HDFCBANK,2022-03,opm_percentage,opm_percentage 20795.0 vs computed 41.61
+DQ-05,WARNING,profitandloss,HDFCBANK,2023-03,opm_percentage,opm_percentage 29932.0 vs computed 36.92
+DQ-05,WARNING,profitandloss,HDFCBANK,2024-03,opm_percentage,opm_percentage -44685.0 vs computed 61.41
+DQ-05,WARNING,profitandloss,HDFCLIFE,2013-03,opm_percentage,opm_percentage 525.0 vs computed 96.27
+DQ-05,WARNING,profitandloss,HDFCLIFE,2014-03,opm_percentage,opm_percentage 605.0 vs computed 96.48
+DQ-05,WARNING,profitandloss,HDFCLIFE,2015-03,opm_percentage,opm_percentage 874.0 vs computed 96.79
+DQ-05,WARNING,profitandloss,HDFCLIFE,2016-03,opm_percentage,opm_percentage 953.0 vs computed 94.74
+DQ-05,WARNING,profitandloss,HDFCLIFE,2017-03,opm_percentage,opm_percentage 972.0 vs computed 96.83
+DQ-05,WARNING,profitandloss,HDFCLIFE,2018-03,opm_percentage,opm_percentage 1074.0 vs computed 96.67
+DQ-05,WARNING,profitandloss,HDFCLIFE,2019-03,opm_percentage,opm_percentage 1215.0 vs computed 96.87
+DQ-05,WARNING,profitandloss,HDFCLIFE,2020-03,opm_percentage,opm_percentage 1141.0 vs computed 96.12
+DQ-05,WARNING,profitandloss,HDFCLIFE,2021-03,opm_percentage,opm_percentage 1235.0 vs computed 98.27
+DQ-05,WARNING,profitandloss,HDFCLIFE,2022-03,opm_percentage,opm_percentage 778.0 vs computed 98.84
+DQ-05,WARNING,profitandloss,HDFCLIFE,2023-03,opm_percentage,opm_percentage 80.0 vs computed 99.89
+DQ-05,WARNING,profitandloss,HDFCLIFE,2024-03,opm_percentage,opm_percentage 531.0 vs computed 99.48
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2014-03,opm_percentage,opm_percentage 3553.0 vs computed 85.94
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2015-03,opm_percentage,opm_percentage 3520.0 vs computed 87.22
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2016-03,opm_percentage,opm_percentage 4424.0 vs computed 84.45
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2017-03,opm_percentage,opm_percentage 4585.0 vs computed 83.97
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2018-03,opm_percentage,opm_percentage 5334.0 vs computed 83.57
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2019-03,opm_percentage,opm_percentage 5025.0 vs computed 85.21
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2020-03,opm_percentage,opm_percentage 4070.0 vs computed 86.09
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2021-03,opm_percentage,opm_percentage 4058.0 vs computed 86.90
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2022-03,opm_percentage,opm_percentage 3256.0 vs computed 88.98
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2023-03,opm_percentage,opm_percentage 4099.0 vs computed 88.00
+DQ-05,WARNING,profitandloss,HEROMOTOCO,2024-03,opm_percentage,opm_percentage 5235.0 vs computed 86.15
+DQ-05,WARNING,profitandloss,HINDALCO,2013-03,opm_percentage,opm_percentage 7699.0 vs computed 90.40
+DQ-05,WARNING,profitandloss,HINDALCO,2014-03,opm_percentage,opm_percentage 8024.0 vs computed 90.85
+DQ-05,WARNING,profitandloss,HINDALCO,2015-03,opm_percentage,opm_percentage 8844.0 vs computed 91.52
+DQ-05,WARNING,profitandloss,HINDALCO,2016-03,opm_percentage,opm_percentage 7778.0 vs computed 92.12
+DQ-05,WARNING,profitandloss,HINDALCO,2017-03,opm_percentage,opm_percentage 12317.0 vs computed 87.71
+DQ-05,WARNING,profitandloss,HINDALCO,2018-03,opm_percentage,opm_percentage 13695.0 vs computed 88.11
+DQ-05,WARNING,profitandloss,HINDALCO,2019-03,opm_percentage,opm_percentage 15511.0 vs computed 88.12
+DQ-05,WARNING,profitandloss,HINDALCO,2020-03,opm_percentage,opm_percentage 14306.0 vs computed 87.89
+DQ-05,WARNING,profitandloss,HINDALCO,2021-03,opm_percentage,opm_percentage 17559.0 vs computed 86.70
+DQ-05,WARNING,profitandloss,HINDALCO,2022-03,opm_percentage,opm_percentage 28347.0 vs computed 85.47
+DQ-05,WARNING,profitandloss,HINDALCO,2023-03,opm_percentage,opm_percentage 22666.0 vs computed 89.85
+DQ-05,WARNING,profitandloss,HINDALCO,2024-03,opm_percentage,opm_percentage 23872.0 vs computed 88.95
+DQ-05,WARNING,profitandloss,HINDUNILVR,2013-03,opm_percentage,opm_percentage 4220.0 vs computed 84.37
+DQ-05,WARNING,profitandloss,HINDUNILVR,2014-03,opm_percentage,opm_percentage 4759.0 vs computed 83.72
+DQ-05,WARNING,profitandloss,HINDUNILVR,2015-03,opm_percentage,opm_percentage 5412.0 vs computed 83.07
+DQ-05,WARNING,profitandloss,HINDUNILVR,2016-03,opm_percentage,opm_percentage 5910.0 vs computed 81.64
+DQ-05,WARNING,profitandloss,HINDUNILVR,2017-03,opm_percentage,opm_percentage 6328.0 vs computed 80.92
+DQ-05,WARNING,profitandloss,HINDUNILVR,2018-03,opm_percentage,opm_percentage 7499.0 vs computed 78.90
+DQ-05,WARNING,profitandloss,HINDUNILVR,2019-03,opm_percentage,opm_percentage 8880.0 vs computed 77.41
+DQ-05,WARNING,profitandloss,HINDUNILVR,2020-03,opm_percentage,opm_percentage 9861.0 vs computed 75.21
+DQ-05,WARNING,profitandloss,HINDUNILVR,2021-03,opm_percentage,opm_percentage 11626.0 vs computed 75.28
+DQ-05,WARNING,profitandloss,HINDUNILVR,2022-03,opm_percentage,opm_percentage 12857.0 vs computed 75.49
+DQ-05,WARNING,profitandloss,HINDUNILVR,2023-03,opm_percentage,opm_percentage 14147.0 vs computed 76.65
+DQ-05,WARNING,profitandloss,HINDUNILVR,2024-03,opm_percentage,opm_percentage 14659.0 vs computed 76.32
+DQ-05,WARNING,profitandloss,ICICIBANK,2013-03,opm_percentage,opm_percentage -15085.0 vs computed 70.59
+DQ-05,WARNING,profitandloss,ICICIBANK,2014-03,opm_percentage,opm_percentage -13084.0 vs computed 66.40
+DQ-05,WARNING,profitandloss,ICICIBANK,2015-03,opm_percentage,opm_percentage -16120.0 vs computed 70.53
+DQ-05,WARNING,profitandloss,ICICIBANK,2016-03,opm_percentage,opm_percentage -26955.0 vs computed 88.12
+DQ-05,WARNING,profitandloss,ICICIBANK,2017-03,opm_percentage,opm_percentage -37737.0 vs computed 104.76
+DQ-05,WARNING,profitandloss,ICICIBANK,2018-03,opm_percentage,opm_percentage -44906.0 vs computed 117.12
+DQ-05,WARNING,profitandloss,ICICIBANK,2019-03,opm_percentage,opm_percentage -50971.0 vs computed 116.38
+DQ-05,WARNING,profitandloss,ICICIBANK,2020-03,opm_percentage,opm_percentage -45190.0 vs computed 100.62
+DQ-05,WARNING,profitandloss,ICICIBANK,2021-03,opm_percentage,opm_percentage -44805.0 vs computed 102.41
+DQ-05,WARNING,profitandloss,ICICIBANK,2022-03,opm_percentage,opm_percentage -26558.0 vs computed 84.69
+DQ-05,WARNING,profitandloss,ICICIBANK,2023-03,opm_percentage,opm_percentage -17341.0 vs computed 72.57
+DQ-05,WARNING,profitandloss,ICICIBANK,2024-03,opm_percentage,opm_percentage -14152.0 vs computed 62.41
+DQ-05,WARNING,profitandloss,ICICIGI,2013-03,opm_percentage,opm_percentage -178.0 vs computed 104.46
+DQ-05,WARNING,profitandloss,ICICIGI,2014-03,opm_percentage,opm_percentage -225.0 vs computed 105.19
+DQ-05,WARNING,profitandloss,ICICIGI,2015-03,opm_percentage,opm_percentage -221.0 vs computed 105.24
+DQ-05,WARNING,profitandloss,ICICIGI,2016-03,opm_percentage,opm_percentage 764.0 vs computed 87.34
+DQ-05,WARNING,profitandloss,ICICIGI,2017-03,opm_percentage,opm_percentage 919.0 vs computed 87.78
+DQ-05,WARNING,profitandloss,ICICIGI,2018-03,opm_percentage,opm_percentage -262.0 vs computed 103.79
+DQ-05,WARNING,profitandloss,ICICIGI,2019-03,opm_percentage,opm_percentage 1669.0 vs computed 85.05
+DQ-05,WARNING,profitandloss,ICICIGI,2020-03,opm_percentage,opm_percentage 1772.0 vs computed 84.61
+DQ-05,WARNING,profitandloss,ICICIGI,2021-03,opm_percentage,opm_percentage 2072.0 vs computed 82.97
+DQ-05,WARNING,profitandloss,ICICIGI,2022-03,opm_percentage,opm_percentage 1016.0 vs computed 93.66
+DQ-05,WARNING,profitandloss,ICICIGI,2023-03,opm_percentage,opm_percentage 1264.0 vs computed 92.93
+DQ-05,WARNING,profitandloss,ICICIGI,2024-03,opm_percentage,opm_percentage 2577.0 vs computed 87.42
+DQ-05,WARNING,profitandloss,ICICIPRULI,2013-03,opm_percentage,opm_percentage 745.0 vs computed 96.28
+DQ-05,WARNING,profitandloss,ICICIPRULI,2014-03,opm_percentage,opm_percentage 1504.0 vs computed 93.13
+DQ-05,WARNING,profitandloss,ICICIPRULI,2015-03,opm_percentage,opm_percentage 1655.0 vs computed 95.20
+DQ-05,WARNING,profitandloss,ICICIPRULI,2016-03,opm_percentage,opm_percentage 1842.0 vs computed 91.17
+DQ-05,WARNING,profitandloss,ICICIPRULI,2017-03,opm_percentage,opm_percentage 1806.0 vs computed 95.22
+DQ-05,WARNING,profitandloss,ICICIPRULI,2018-03,opm_percentage,opm_percentage 1771.0 vs computed 95.44
+DQ-05,WARNING,profitandloss,ICICIPRULI,2019-03,opm_percentage,opm_percentage 541.0 vs computed 98.70
+DQ-05,WARNING,profitandloss,ICICIPRULI,2020-03,opm_percentage,opm_percentage -319.0 vs computed 101.52
+DQ-05,WARNING,profitandloss,ICICIPRULI,2021-03,opm_percentage,opm_percentage -390.0 vs computed 100.47
+DQ-05,WARNING,profitandloss,ICICIPRULI,2022-03,opm_percentage,opm_percentage -2163.0 vs computed 103.40
+DQ-05,WARNING,profitandloss,ICICIPRULI,2023-03,opm_percentage,opm_percentage -1757.0 vs computed 103.48
+DQ-05,WARNING,profitandloss,ICICIPRULI,2024-03,opm_percentage,opm_percentage -1829.0 vs computed 102.03
+DQ-05,WARNING,profitandloss,INDUSINDBK,2013-03,opm_percentage,opm_percentage 286.0 vs computed 27.88
+DQ-05,WARNING,profitandloss,INDUSINDBK,2014-03,opm_percentage,opm_percentage 335.0 vs computed 30.95
+DQ-05,WARNING,profitandloss,INDUSINDBK,2015-03,opm_percentage,opm_percentage 288.0 vs computed 32.33
+DQ-05,WARNING,profitandloss,INDUSINDBK,2016-03,opm_percentage,opm_percentage 329.0 vs computed 35.28
+DQ-05,WARNING,profitandloss,INDUSINDBK,2017-03,opm_percentage,opm_percentage 379.0 vs computed 39.46
+DQ-05,WARNING,profitandloss,INDUSINDBK,2018-03,opm_percentage,opm_percentage 942.0 vs computed 37.93
+DQ-05,WARNING,profitandloss,INDUSINDBK,2019-03,opm_percentage,opm_percentage -437.0 vs computed 41.70
+DQ-05,WARNING,profitandloss,INDUSINDBK,2020-03,opm_percentage,opm_percentage -553.0 vs computed 43.81
+DQ-05,WARNING,profitandloss,INDUSINDBK,2021-03,opm_percentage,opm_percentage -2469.0 vs computed 55.16
+DQ-05,WARNING,profitandloss,INDUSINDBK,2022-03,opm_percentage,opm_percentage -839.0 vs computed 51.39
+DQ-05,WARNING,profitandloss,INDUSINDBK,2023-03,opm_percentage,opm_percentage 2067.0 vs computed 42.69
+DQ-05,WARNING,profitandloss,INDUSINDBK,2024-03,opm_percentage,opm_percentage 2978.0 vs computed 38.55
+DQ-05,WARNING,profitandloss,JIOFIN,2023-03,opm_percentage,opm_percentage 88.0 vs computed 86.67
+DQ-05,WARNING,profitandloss,KOTAKBANK,2013-03,opm_percentage,opm_percentage -1789.0 vs computed 60.92
+DQ-05,WARNING,profitandloss,KOTAKBANK,2014-03,opm_percentage,opm_percentage -1379.0 vs computed 58.84
+DQ-05,WARNING,profitandloss,KOTAKBANK,2015-03,opm_percentage,opm_percentage -3366.0 vs computed 72.96
+DQ-05,WARNING,profitandloss,KOTAKBANK,2016-03,opm_percentage,opm_percentage -2263.0 vs computed 56.57
+DQ-05,WARNING,profitandloss,KOTAKBANK,2017-03,opm_percentage,opm_percentage -3965.0 vs computed 66.44
+DQ-05,WARNING,profitandloss,KOTAKBANK,2018-03,opm_percentage,opm_percentage -4141.0 vs computed 66.87
+DQ-05,WARNING,profitandloss,KOTAKBANK,2019-03,opm_percentage,opm_percentage -5114.0 vs computed 66.23
+DQ-05,WARNING,profitandloss,KOTAKBANK,2020-03,opm_percentage,opm_percentage -5005.0 vs computed 67.45
+DQ-05,WARNING,profitandloss,KOTAKBANK,2021-03,opm_percentage,opm_percentage -9958.0 vs computed 90.83
+DQ-05,WARNING,profitandloss,KOTAKBANK,2022-03,opm_percentage,opm_percentage -8512.0 vs computed 90.98
+DQ-05,WARNING,profitandloss,KOTAKBANK,2023-03,opm_percentage,opm_percentage -5746.0 vs computed 79.44
+DQ-05,WARNING,profitandloss,KOTAKBANK,2024-03,opm_percentage,opm_percentage -13382.0 vs computed 83.67
+DQ-05,WARNING,profitandloss,SUNPHARMA,2024-03,opm_percentage,opm_percentage 28.0 vs computed 26.84
+DQ-05,WARNING,profitandloss,INDIGO,2013-03,opm_percentage,opm_percentage 855.0 vs computed 90.71
+DQ-05,WARNING,profitandloss,INDIGO,2014-03,opm_percentage,opm_percentage 433.0 vs computed 96.11
+DQ-05,WARNING,profitandloss,INDIGO,2015-03,opm_percentage,opm_percentage 1904.0 vs computed 86.33
+DQ-05,WARNING,profitandloss,INDIGO,2016-03,opm_percentage,opm_percentage 3164.0 vs computed 80.40
+DQ-05,WARNING,profitandloss,INDIGO,2017-03,opm_percentage,opm_percentage 2219.0 vs computed 88.06
+DQ-05,WARNING,profitandloss,INDIGO,2018-03,opm_percentage,opm_percentage 3030.0 vs computed 86.84
+DQ-05,WARNING,profitandloss,INDIGO,2019-03,opm_percentage,opm_percentage -151.0 vs computed 100.53
+DQ-05,WARNING,profitandloss,INDIGO,2020-03,opm_percentage,opm_percentage 4069.0 vs computed 88.62
+DQ-05,WARNING,profitandloss,INDIGO,2021-03,opm_percentage,opm_percentage 2.0 vs computed 99.98
+DQ-05,WARNING,profitandloss,INDIGO,2022-03,opm_percentage,opm_percentage 558.0 vs computed 97.85
+DQ-05,WARNING,profitandloss,INDIGO,2023-03,opm_percentage,opm_percentage 6521.0 vs computed 88.02
+DQ-05,WARNING,profitandloss,INDIGO,2024-03,opm_percentage,opm_percentage 16331.0 vs computed 76.30
+DQ-06,WARNING,profitandloss,ADANIENSOL,2014-03,sales,sales <= 0 (0)
+DQ-11,WARNING,profitandloss,ADANIENT,2014-03,tax_percentage,tax_percentage out of range: -64
+DQ-11,WARNING,profitandloss,ADANIGREEN,2017-03,tax_percentage,tax_percentage out of range: -75
+DQ-11,WARNING,profitandloss,ADANIGREEN,2018-03,tax_percentage,tax_percentage out of range: -35
+DQ-11,WARNING,profitandloss,ADANIGREEN,2019-03,tax_percentage,tax_percentage out of range: -19
+DQ-11,WARNING,profitandloss,ADANIPOWER,2014-03,tax_percentage,tax_percentage out of range: -79
+DQ-11,WARNING,profitandloss,ADANIPOWER,2016-03,tax_percentage,tax_percentage out of range: -47
+DQ-11,WARNING,profitandloss,ADANIPOWER,2017-03,tax_percentage,tax_percentage out of range: -1
+DQ-11,WARNING,profitandloss,ADANIPOWER,2023-03,tax_percentage,tax_percentage out of range: -40
+DQ-11,WARNING,profitandloss,AMBUJACEM,2018-12,tax_percentage,tax_percentage out of range: -2
+DQ-11,WARNING,profitandloss,APOLLOHOSP,2018-03,tax_percentage,tax_percentage out of range: 65
+DQ-11,WARNING,profitandloss,AXISBANK,2018-03,tax_percentage,tax_percentage out of range: -99
+DQ-11,WARNING,profitandloss,AXISBANK,2020-03,tax_percentage,tax_percentage out of range: 67
+DQ-11,WARNING,profitandloss,BANKBARODA,2016-03,tax_percentage,tax_percentage out of range: -19
+DQ-11,WARNING,profitandloss,BANKBARODA,2018-03,tax_percentage,tax_percentage out of range: -9
+DQ-11,WARNING,profitandloss,BANKBARODA,2020-03,tax_percentage,tax_percentage out of range: -99
+DQ-11,WARNING,profitandloss,BANKBARODA,2021-03,tax_percentage,tax_percentage out of range: 77
+DQ-11,WARNING,profitandloss,BHARTIARTL,2014-03,tax_percentage,tax_percentage out of range: 62
+DQ-11,WARNING,profitandloss,BHARTIARTL,2019-03,tax_percentage,tax_percentage out of range: -99
+DQ-11,WARNING,profitandloss,BHARTIARTL,2020-03,tax_percentage,tax_percentage out of range: -28
+DQ-11,WARNING,profitandloss,BHARTIARTL,2021-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,BHEL,2016-03,tax_percentage,tax_percentage out of range: -39
+DQ-11,WARNING,profitandloss,BHEL,2018-03,tax_percentage,tax_percentage out of range: 64
+DQ-11,WARNING,profitandloss,BHEL,2020-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,BHEL,2021-03,tax_percentage,tax_percentage out of range: -25
+DQ-11,WARNING,profitandloss,BHEL,2024-03,tax_percentage,tax_percentage out of range: -16
+DQ-11,WARNING,profitandloss,CANBK,2016-03,tax_percentage,tax_percentage out of range: -13
+DQ-11,WARNING,profitandloss,CANBK,2018-03,tax_percentage,tax_percentage out of range: -36
+DQ-11,WARNING,profitandloss,CANBK,2019-03,tax_percentage,tax_percentage out of range: -99
+DQ-11,WARNING,profitandloss,DLF,2014-03,tax_percentage,tax_percentage out of range: -16
+DQ-11,WARNING,profitandloss,DLF,2020-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,DRREDDY,2020-03,tax_percentage,tax_percentage out of range: -7
+DQ-11,WARNING,profitandloss,GODREJCP,2019-03,tax_percentage,tax_percentage out of range: -12
+DQ-11,WARNING,profitandloss,GODREJCP,2024-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,GRASIM,2020-03,tax_percentage,tax_percentage out of range: -1
+DQ-11,WARNING,profitandloss,HDFCLIFE,2024-03,tax_percentage,tax_percentage out of range: -61
+DQ-11,WARNING,profitandloss,HINDALCO,2015-03,tax_percentage,tax_percentage out of range: 75
+DQ-11,WARNING,profitandloss,HINDALCO,2016-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,IOC,2020-03,tax_percentage,tax_percentage out of range: -74
+DQ-11,WARNING,profitandloss,IRFC,2013-03,tax_percentage,tax_percentage out of range: 64
+DQ-11,WARNING,profitandloss,JINDALSTEL,2015-03,tax_percentage,tax_percentage out of range: -6
+DQ-11,WARNING,profitandloss,JINDALSTEL,2016-03,tax_percentage,tax_percentage out of range: -22
+DQ-11,WARNING,profitandloss,JINDALSTEL,2017-03,tax_percentage,tax_percentage out of range: -17
+DQ-11,WARNING,profitandloss,JINDALSTEL,2018-03,tax_percentage,tax_percentage out of range: -13
+DQ-11,WARNING,profitandloss,JINDALSTEL,2019-03,tax_percentage,tax_percentage out of range: -14
+DQ-11,WARNING,profitandloss,JSWENERGY,2018-03,tax_percentage,tax_percentage out of range: 75
+DQ-11,WARNING,profitandloss,JSWSTEEL,2014-03,tax_percentage,tax_percentage out of range: 70
+DQ-11,WARNING,profitandloss,JSWSTEEL,2016-03,tax_percentage,tax_percentage out of range: -80
+DQ-11,WARNING,profitandloss,JSWSTEEL,2020-03,tax_percentage,tax_percentage out of range: -30
+DQ-11,WARNING,profitandloss,LICI,2019-03,tax_percentage,tax_percentage out of range: 68
+DQ-11,WARNING,profitandloss,LICI,2020-03,tax_percentage,tax_percentage out of range: 80
+DQ-11,WARNING,profitandloss,LICI,2021-03,tax_percentage,tax_percentage out of range: 76
+DQ-11,WARNING,profitandloss,LICI,2022-03,tax_percentage,tax_percentage out of range: 66
+DQ-11,WARNING,profitandloss,LODHA,2021-03,tax_percentage,tax_percentage out of range: -44
+DQ-11,WARNING,profitandloss,LODHA,2023-03,tax_percentage,tax_percentage out of range: -8
+DQ-11,WARNING,profitandloss,M&M,2020-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,MOTHERSON,2020-03,tax_percentage,tax_percentage out of range: -5
+DQ-11,WARNING,profitandloss,NAUKRI,2015-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,NAUKRI,2017-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,NAUKRI,2020-03,tax_percentage,tax_percentage out of range: 95
+DQ-11,WARNING,profitandloss,NAUKRI,2023-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,NHPC,2020-03,tax_percentage,tax_percentage out of range: -2
+DQ-11,WARNING,profitandloss,NHPC,2022-03,tax_percentage,tax_percentage out of range: -17
+DQ-11,WARNING,profitandloss,NTPC,2016-03,tax_percentage,tax_percentage out of range: -2
+DQ-11,WARNING,profitandloss,NTPC,2019-03,tax_percentage,tax_percentage out of range: -25
+DQ-11,WARNING,profitandloss,PNB,2016-03,tax_percentage,tax_percentage out of range: -31
+DQ-11,WARNING,profitandloss,PNB,2018-03,tax_percentage,tax_percentage out of range: -37
+DQ-11,WARNING,profitandloss,PNB,2019-03,tax_percentage,tax_percentage out of range: -35
+DQ-11,WARNING,profitandloss,POWERGRID,2019-03,tax_percentage,tax_percentage out of range: -10
+DQ-11,WARNING,profitandloss,SBIN,2017-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,SBIN,2018-03,tax_percentage,tax_percentage out of range: -66
+DQ-11,WARNING,profitandloss,SHREECEM,2015-06,tax_percentage,tax_percentage out of range: -6
+DQ-11,WARNING,profitandloss,TATACONSUM,2016-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,TATAMOTORS,2019-03,tax_percentage,tax_percentage out of range: -8
+DQ-11,WARNING,profitandloss,TATAMOTORS,2024-03,tax_percentage,tax_percentage out of range: -14
+DQ-11,WARNING,profitandloss,TATAPOWER,2013-03,tax_percentage,tax_percentage out of range: 92
+DQ-11,WARNING,profitandloss,TATAPOWER,2014-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,TATAPOWER,2015-03,tax_percentage,tax_percentage out of range: 72
+DQ-11,WARNING,profitandloss,TATASTEEL,2013-03,tax_percentage,tax_percentage out of range: 78
+DQ-11,WARNING,profitandloss,TATASTEEL,2015-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,TATASTEEL,2016-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,TATASTEEL,2017-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,TATASTEEL,2020-03,tax_percentage,tax_percentage out of range: -99
+DQ-11,WARNING,profitandloss,TATASTEEL,2024-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,TRENT,2013-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,TRENT,2014-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,TRENT,2021-03,tax_percentage,tax_percentage out of range: -12
+DQ-11,WARNING,profitandloss,TRENT,2022-03,tax_percentage,tax_percentage out of range: 69
+DQ-11,WARNING,profitandloss,ULTRACEMCO,2020-03,tax_percentage,tax_percentage out of range: -11
+DQ-11,WARNING,profitandloss,UNIONBANK,2017-03,tax_percentage,tax_percentage out of range: -58
+DQ-11,WARNING,profitandloss,UNIONBANK,2018-03,tax_percentage,tax_percentage out of range: -21
+DQ-11,WARNING,profitandloss,UNIONBANK,2019-03,tax_percentage,tax_percentage out of range: -25
+DQ-11,WARNING,profitandloss,UNIONBANK,2020-03,tax_percentage,tax_percentage out of range: -27
+DQ-11,WARNING,profitandloss,UNIONBANK,2021-03,tax_percentage,tax_percentage out of range: -22
+DQ-11,WARNING,profitandloss,UNITDSPR,2013-03,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,UNITDSPR,2016-03,tax_percentage,tax_percentage out of range: 61
+DQ-11,WARNING,profitandloss,VBL,2012-12,tax_percentage,tax_percentage out of range: -20
+DQ-11,WARNING,profitandloss,VBL,2013-12,tax_percentage,tax_percentage out of range: -11
+DQ-11,WARNING,profitandloss,VBL,2014-12,tax_percentage,tax_percentage out of range: 99
+DQ-11,WARNING,profitandloss,VEDL,2013-03,tax_percentage,tax_percentage out of range: -25
+DQ-11,WARNING,profitandloss,VEDL,2014-03,tax_percentage,tax_percentage out of range: -9
+DQ-11,WARNING,profitandloss,VEDL,2016-03,tax_percentage,tax_percentage out of range: -37
+DQ-11,WARNING,profitandloss,VEDL,2020-03,tax_percentage,tax_percentage out of range: -43
+DQ-11,WARNING,profitandloss,VEDL,2024-03,tax_percentage,tax_percentage out of range: 63
+DQ-11,WARNING,profitandloss,ZOMATO,2023-03,tax_percentage,tax_percentage out of range: -4
+DQ-11,WARNING,profitandloss,ZOMATO,2024-03,tax_percentage,tax_percentage out of range: -21
+DQ-11,WARNING,profitandloss,INDIGO,2019-03,tax_percentage,tax_percentage out of range: -99
+DQ-11,WARNING,profitandloss,INDIGO,2020-03,tax_percentage,tax_percentage out of range: -10
+DQ-11,WARNING,profitandloss,INDIGO,2024-03,tax_percentage,tax_percentage out of range: -2
+DQ-12,WARNING,profitandloss,BHARTIARTL,2019-03,dividend_payout,dividend_payout > 200%: 244.0
+DQ-12,WARNING,profitandloss,BRITANNIA,2021-03,dividend_payout,dividend_payout > 200%: 204.0
+DQ-12,WARNING,profitandloss,M&M,2020-03,dividend_payout,dividend_payout > 200%: 205.0
+DQ-12,WARNING,profitandloss,SBIN,2017-03,dividend_payout,dividend_payout > 200%: 859.0
+DQ-12,WARNING,profitandloss,TATAPOWER,2015-03,dividend_payout,dividend_payout > 200%: 210.0
+DQ-12,WARNING,profitandloss,VEDL,2023-03,dividend_payout,dividend_payout > 200%: 357.0
+DQ-12,WARNING,profitandloss,VEDL,2024-03,dividend_payout,dividend_payout > 200%: 259.0
+DQ-14,WARNING,profitandloss,JSWENERGY,2018-03,eps,eps 0.0 <= 0 but net_profit 85 > 0
+DQ-14,WARNING,profitandloss,TATAPOWER,2013-03,eps,eps 0.0 <= 0 but net_profit 123 > 0
+DQ-14,WARNING,profitandloss,TATAPOWER,2014-03,eps,eps -1.0 <= 0 but net_profit 12 > 0
+DQ-14,WARNING,profitandloss,VBL,2016-12,eps,eps 0.0 <= 0 but net_profit 48 > 0
+DQ-14,WARNING,profitandloss,ZOMATO,2024-03,eps,eps 0.0 <= 0 but net_profit 351 > 0
+DQ-09,WARNING,cashflow,TVSMOTOR,2022-03,net_cash_flow,net_cash_flow 532.0 vs computed -128.0
+DQ-16,WARNING,coverage,ATGL,,year_coverage,"insufficient history: PL=7, BS=8, CF=0 yrs"
+DQ-16,WARNING,coverage,JIOFIN,,year_coverage,"insufficient history: PL=2, BS=3, CF=2 yrs"
+DQ-16,WARNING,coverage,SBIN,,year_coverage,"insufficient history: PL=12, BS=0, CF=12 yrs"
