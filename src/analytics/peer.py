@@ -54,14 +54,14 @@ def _percentile_rank_series(series, invert=False):
 
 
 def compute_peer_percentiles(df, config):
-    """For each peer group and metric, computes percentile_rank; small groups get NO_PEER_GROUP_MSG."""
+    """For each peer group and metric, computes percentile_rank; small or missing groups get NO_PEER_GROUP_MSG."""
     metrics = config["peer_percentiles"]["metrics"]
     min_group_size = config["peer_percentiles"]["min_peer_group_size"]
     invert_metrics = {"debt_to_equity"}
 
     records = []
     for group_name, group_df in df.groupby("peer_group_name", dropna=False):
-        eligible = group_name is not None and len(group_df) >= min_group_size
+        eligible = pd.notna(group_name) and len(group_df) >= min_group_size
         for metric in metrics:
             if metric not in group_df.columns:
                 continue

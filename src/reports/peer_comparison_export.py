@@ -83,8 +83,9 @@ def build_peer_comparison_workbook(df, percentiles_df, metric_columns=None, outp
     wb.remove(wb.active)
 
     for group_name, group_df in df.groupby("peer_group_name", dropna=False):
-        sheet_name = group_name if group_name else "Unassigned"
-        _write_sheet(wb, sheet_name, group_df, metric_columns, percentile_lookup)
+        if pd.isna(group_name):
+            continue  # skip companies with no peer group assigned — not part of the 11 defined groups
+        _write_sheet(wb, group_name, group_df, metric_columns, percentile_lookup)
 
     import os
     os.makedirs(os.path.dirname(output_path) or ".", exist_ok=True)
